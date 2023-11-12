@@ -28,7 +28,7 @@ INSERT INTO usuarios(NAME,lastname,email,PASSWORD) VALUES('Laura','Schell','admi
 ```
 And
 ```
-INSERT INTO usuarios(NAME,lastname,email,PASSWORD) VALUES('Juan','Perez','admin2@gmail.com','admin2');
+INSERT INTO usuarios(NAME,lastname,email,PASSWORD) VALUES('Javier','Medina','admin2@gmail.com','admin2');
 ```
 
 Then
