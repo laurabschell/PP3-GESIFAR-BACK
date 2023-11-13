@@ -57,5 +57,5 @@ INSERT INTO materiales (id, tip, forma, presentacion, fecha_venc) VALUES
 	(1, 'Insumo', 'FORMA 1', '33', '2024-05-29'),
 	(2, 'Medicamento', 'forma2', 'pres2', '2024-11-19'),
 	(3, 'Medicamento', 'FORMA 3', 'QWEWQE', '2023-10-14'),
-	(4, 'Insumo', 'FORMA 4', 'ss', '2023-11-04');`
+	(4, 'Insumo', 'FORMA 4', 'ss', '2023-11-04');
 ```
