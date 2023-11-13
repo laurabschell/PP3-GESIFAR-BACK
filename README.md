@@ -51,9 +51,9 @@ CREATE TABLE IF NOT EXISTS `materiales` (
   `presentacion` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
   `fecha_venc` date DEFAULT NULL,
   KEY `id` (`id`)
-)
+);
 
-INSERT INTO materiales (id, tip, forma, presentacion, fecha_venc) VALUES
+INSERT INTO materiales (id, tipO, forma, presentacion, fecha_venc) VALUES
 	(1, 'Insumo', 'FORMA 1', '33', '2024-05-29'),
 	(2, 'Medicamento', 'forma2', 'pres2', '2024-11-19'),
 	(3, 'Medicamento', 'FORMA 3', 'QWEWQE', '2023-10-14'),
